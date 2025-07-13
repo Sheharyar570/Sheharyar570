@@ -1,16 +1,27 @@
 ## Hi there 👋
 
-<!--
-**Sheharyar570/Sheharyar570** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Sheharyar Ahmad
 
-Here are some ideas to get you started:
+I'm a backend software engineer and network professional with a passion for building scalable backend systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 What I Do
+
+- 🧠 Backend Development with **Python**, using **Django**, **FastAPI**, and **Apache Airflow**
+- 🛠️ Writing clean, efficient APIs and automating infrastructure processes
+- 📊 Architecting systems that support high-availability web applications
+
+## 🔧 Tools & Technologies
+
+- **Languages:** Python, SQL  
+- **Frameworks:** Django, FastAPI  
+- **Workflow:** Git, Docker, Airflow  
+- **Other:** JIRA, Linux, Bash, REST APIs
+
+## 🚀 Currently Working On
+
+- Improving backend automation pipelines  
+- Exploring scalable cloud-based data architectures  
+- Contributing to internal tools and systems integration  
+
+---
+
