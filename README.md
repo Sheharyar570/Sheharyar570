@@ -1,4 +1,4 @@
-# 💫 About Me:
+## About Me:
 🎯 Backend engineer with 4+ years of experience in Python, Django, FastAPI, and Airflow.  <br>🔧 Currently building REST APIs, automating data pipelines, and contributing to open source.  <br>🤝 Open to collaborations on backend systems, GenAI tools, and data workflows.  <br>📚 Learning about pgvector, Apache AGE, and modular LLM agents with LlamaIndex.  <br>💬 Ask me about Django, FastAPI, Airflow, APIs, or vector database benchmarking. <br>🔗 [My contributions to VectorDBBench](https://github.com/zilliztech/VectorDBBench/pulls?q=is%3Apr+author%3ASheharyar570+is%3Aclosed) <br>🔗 [My contributions to HammerDB](https://github.com/TPC-Council/HammerDB/pulls?q=is%3Apr+author%3ASheharyar570+is%3Aclosed)
 
 ![](https://github-readme-stats.vercel.app/api?username=Sheharyar570&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/><br/>
@@ -12,5 +12,5 @@
 ![](https://github-profile-trophy.vercel.app/?username=Sheharyar570&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=sheharyar570)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
